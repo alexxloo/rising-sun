@@ -1,2 +1,2 @@
 # rising-sun
-Custom-made fork of Raleway typeface
+Custom-made fork of Raleway typeface. Its main changes are: Renaming many weights, Name applied per-weight, except, obviously, Regular and Bold; and not one name for all weights, as original Raleway did , Flattening of lining figures (solving a problem found at: <http://stackoverflow.com/questions/22528804/get-raleway-lining-numerals-for-system-font-usage>), and Removing Extralight and Medium weights. It is released under the SIL Open Font License, v1.1.
